@@ -1,0 +1,17 @@
+*.rpt
+*.done
+*.summary
+*.bak
+*.pin
+*.pof
+*.sof
+*.mti
+*.mpf
+*.vcd
+*.vvp
+*.ddb
+*.smsg
+db
+incremental_db
+work
+transcript
