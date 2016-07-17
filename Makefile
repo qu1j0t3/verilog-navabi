@@ -1,4 +1,7 @@
 
+Pr2_4_101DetectorTester.vvp: Pr2_4_101DetectorTester.v Pr2_3_101Detector.v
+	iverilog -o $@ $^
+
 Pr2_2_MajorityTester.vvp: Pr2_2_MajorityTester.v Pr2_2_Majority.v
 	iverilog -o $@ $^
 
